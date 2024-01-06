@@ -1,6 +1,6 @@
 # Wargaming.net API Data Analysis Project
 
-## Description
+## Disclaimer
 This is a World of Tanks video game analysis. All data has been extracted from Wargaming.net API ![(link)](https://developers.wargaming.net/reference/all/wot/account/list/?r_realm=eu) using Python and then visualized in Power BI.
 
 ## Goal
