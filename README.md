@@ -5,9 +5,9 @@ This is a World of Tanks video game analysis. All data has been extracted from W
 
 ## Goal
 
-## Challenges
-
 ## Contents
 
 * Bullet
 ![Link to PowerBI](https://github.com/Marks9001/Data-Analysis-Project-Python-PowerBI-/blob/main/Power%20BI%20_Wargaming%20project.pdf)
+
+## Challenges and what would I do different next time
