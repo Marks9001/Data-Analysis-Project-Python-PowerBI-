@@ -32,11 +32,11 @@ All files are available for preview in 'src' folder and also accessible via belo
 
 ## Conclusions
 
-The most accounts were created in 2012-2014  and then stabilized after 2014. About 46% of the population did not play more than 500 battles. What is interesting is that about 30% of accounts did not play a single battle. It might be beneficial to search for root cause why there are so many blank accounts and find a way to encourage people to play. 
+The most accounts in extracted population were created in 2012-2014  and then stabilized after 2014. About 46% of the population did not play more than 500 battles. What is interesting is that about 30% of accounts did not play a single battle. It might be beneficial to search for root cause why there are so many blank accounts and find a way to encourage people to play. 
 
 I have played 371 battles and based on that I fall under the same 46% of 'casual' players. However, my Win Ratio is slightly bigger - 0.52 compared to 0.49.
 
-Overall the most battles played tank is a tank called 'IS-3' but the chart can be sliced by tiers (from 1 to 10). The tank 'T95E2' has the biggest Win Ratio - 0.67. For a more accurate Win Ratio I decided to take only tanks who had more than 50 battles played. 
+Overall the most battles played tank is a tank called 'IS-3'. The chart can be sliced by tiers (from 1 to 10) in order to get more specific results. The tank 'T95E2' has the biggest Win Ratio - 0.67. For a more accurate Win Ratio I decided to take only tanks who had more than 50 battles played. 
 
 Lastly, my most played tank was a Tier 5 light tank called 'A-20' with a Win Ratio 0.48 on it. 
 
