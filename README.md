@@ -21,14 +21,25 @@ The project consists of two parts - first is the data extraction from the API an
 
 All files are available for preview in 'src' folder and also accessible via below links:
 
-[Main Data extract code](src/Players_data.ipynb)
+[Main Data Extract Code](src/Players_data.ipynb)
 
-[Tank data extract code](src/Tank-data.ipynb)
+[Tank Data Extract Code](src/Tank-data.ipynb)
 
-[PowerBI data model](src/Power%20Bi%20Model.JPG)
+[PowerBI Data Model](src/Power%20Bi%20Model.JPG)
 
-[PowerBI visuals](src/Power%20BI%20_Wargaming%20project.pdf)
+[PowerBI Visuals](src/Power%20BI%20_Wargaming%20project.pdf)
 
 
 ## Conclusions
+
+The most accounts were created in 2012-2014  and then stabilized after 2014. About 46% of the population did not play more than 500 battles. What is interesting is that about 30% of accounts did not play a single battle. It might be beneficial to search for root cause why there are so many blank accounts and find a way to encourage people to play. 
+
+I have played 371 battles and based on that I fall under the same 46% of 'casual' players. However, my Win Ratio is slightly bigger - 0.52 compared to 0.49.
+
+Overall the most battles played tank is a tank called 'IS-3' but the chart can be sliced by tiers (from 1 to 10). The tank 'T95E2' has the biggest Win Ratio - 0.67. For a more accurate Win Ratio I decided to take only tanks who had more than 50 battles played. 
+
+Lastly, my most played tank was a Tier 5 light tank called 'A-20' with a Win Ratio 0.48 on it. 
+
+
+
 ### Challenges and what would I do different next time
