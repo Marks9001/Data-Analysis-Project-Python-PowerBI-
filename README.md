@@ -43,3 +43,5 @@ Lastly, my most played tank was a Tier 5 light tank called 'A-20' with a Win Rat
 
 
 ### Challenges and what would I do different next time
+
+It was an exciting project to work on even though there were some challenges. One of them was figuring out how to flatten nested JSON file into dataframe. While doing that I was thinking maybe next time I would write a recursive function to flatten it.
