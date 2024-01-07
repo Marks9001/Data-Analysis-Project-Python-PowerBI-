@@ -17,9 +17,11 @@ Goal was to extract data of about 2200 accounts from Wargaming.net API and compa
 
 
 ## Contents
+The project consists of two parts - first is the data extraction from the API and preparing it for use (Python). Second is creating data model and visualising the data in PowerBI. 
+
 All files are available for preview in 'src' folder and also accessible via below links:
 
-[Data extract code](src/Players_data.ipynb)
+[Main Data extract code](src/Players_data.ipynb)
 
 [Tank data extract code](src/Tank-data.ipynb)
 
