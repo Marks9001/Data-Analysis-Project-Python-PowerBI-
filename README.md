@@ -17,6 +17,7 @@ Goal was to extract data of about 2200 accounts from Wargaming.net API and compa
 
 
 ## Contents
+All files are available for preview in 'src' folder and also accessible via below links:
 
 Data extract code: 
 
