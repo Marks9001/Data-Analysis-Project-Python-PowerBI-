@@ -21,11 +21,11 @@ All files are available for preview in 'src' folder and also accessible via belo
 
 [Data extract code](src/Players_data.ipynb)
 
-Tank data extract code:
+[Tank data extract code](src/Tank-data.ipynb)
 
-PowerBI data model:
+[PowerBI data model](src/Power%20Bi%20Model.JPG)
 
-PowerBI visuals:
+[PowerBI visuals](src/Power%20BI%20_Wargaming%20project.pdf)
 
 
 ## Conclusions
