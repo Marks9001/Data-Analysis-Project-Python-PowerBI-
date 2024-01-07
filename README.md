@@ -19,7 +19,7 @@ Goal was to extract data of about 2200 accounts from Wargaming.net API and compa
 ## Contents
 All files are available for preview in 'src' folder and also accessible via below links:
 
-Data extract code: 
+[Data extract code](src/Players_data.ipynb)
 
 Tank data extract code:
 
@@ -27,13 +27,6 @@ PowerBI data model:
 
 PowerBI visuals:
 
-
-
-
-
-
-* Bullet
-![Link to PowerBI](https://github.com/Marks9001/Data-Analysis-Project-Python-PowerBI-/blob/main/Power%20BI%20_Wargaming%20project.pdf)
 
 ## Conclusions
 ### Challenges and what would I do different next time
